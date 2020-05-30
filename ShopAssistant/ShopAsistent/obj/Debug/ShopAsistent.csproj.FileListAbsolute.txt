@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\OhleleJaba\ShopAssistant\ShopAsistent\obj\Debug\ShopAsistent.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OhleleJaba\ShopAssistant\ShopAsistent\obj\Debug\ShopAsistent.csproj.CoreCompileInputs.cache
